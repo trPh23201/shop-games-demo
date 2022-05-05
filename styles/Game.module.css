@@ -1,0 +1,42 @@
+.row{
+    margin-bottom: 15px;
+}
+.row .img_frame{
+    min-height: 400px;
+    max-height: 400px;
+    position: relative;
+}
+.row .img_frame img{
+    max-width: 97% !important;
+    min-width: 97% !important;
+    margin: 0 !important;
+}
+.row .detail{
+    background-color: rgb(40,44,52);
+    padding-top: 10px;
+}
+.row .detail p, .row .detail strong {
+    font-size: large;
+    font-weight: bold;
+    overflow: hidden;
+}
+.row .detail .price{
+    color: black;
+}
+.row .detail .tag_frame {
+    min-height: 90px;
+    max-height: 90px;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+.row .detail .tag_frame > span{
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.row .detail .develop {
+    min-height: 125px;
+    max-height: 125px;
+    overflow: hidden;
+    margin-bottom: 12px;
+}

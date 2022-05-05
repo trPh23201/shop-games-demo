@@ -1,0 +1,51 @@
+/**--------------Products----------**/
+.products{
+  margin-top: 5px;
+}
+.products .item{
+  min-height: 361px;
+  max-height: 361px;
+  background-color: rgb(33, 50, 68);
+  margin-bottom: 20px;
+}
+.products .item:hover{
+  background-color: rgba(55,59,71,1);
+  box-shadow:0 5px 15px rgb(63, 189, 206);
+}
+.products .item .image{
+  padding: 3px;
+  min-height: 180px;
+  max-height: 180px;
+  cursor: pointer;
+}
+.products .item .name{
+  color: white;
+  min-height: 38px;
+  max-height: 38px ;
+  text-align: center ;
+}
+.products .item .cate{
+  min-height: 53px;
+  max-height: 53px;
+  margin-top: 15px;
+  overflow: hidden;
+}
+.products .item .cate .cate_item{
+  cursor: pointer
+}
+.products .item .cate .cate_item_disable{
+  cursor: default
+}
+.products .item .price_button{
+  margin-top: 10px;
+  position: absolute;
+  right: 10px;
+}
+.products .item .price_button .button{
+  min-width: 50px
+}
+.products .item .price_button .price{
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+}

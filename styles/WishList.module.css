@@ -1,0 +1,26 @@
+.item{
+    border: 1px solid white;
+    background-color: rgb(30,30,30);
+    border-radius: 2px;
+    box-shadow:0 1px 10px rgb(63, 189, 206);
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.item .img_frame {
+    min-height: 150px;
+    max-height: 150px;
+    position: relative;
+    cursor: pointer;
+}
+.item button {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.pop {
+    position:fixed;
+    bottom: 0px; 
+    right: 0px; 
+    width: 100%;
+}

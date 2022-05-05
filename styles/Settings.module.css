@@ -1,0 +1,40 @@
+.setting {
+    border-bottom: 1px solid;
+    border-color: grey;
+    color: grey;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.setting_active {
+    border-bottom: 1px solid;
+    border-color: white;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    animation: mymove 0.4s;
+}
+
+@keyframes mymove {
+    0% {
+        border-bottom: 1px solid;
+        border-color: grey;
+        color: grey;
+    }
+
+    100% {
+        border-bottom: 1px solid;
+        border-color: white;
+        color: white;
+    }
+}
+
+.switch_frame {
+    position: relative;
+}
+
+.switch {
+    position: absolute;
+    top: 25%;
+    height: 50%;
+}

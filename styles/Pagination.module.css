@@ -1,0 +1,23 @@
+.pagination{
+    justify-content: center;
+}
+.pagination > li > a
+{
+    background-color: inherit;
+    color: grey;
+    border: none
+}
+.pagination > li > span
+{
+    color: white;
+    background-color: inherit !important;
+    border: none;
+}
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover
+{   
+    color: white;
+    background-color: inherit;
+}

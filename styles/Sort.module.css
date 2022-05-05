@@ -1,0 +1,7 @@
+.dropdown{
+    margin-top: 5px;
+}
+.dropdown .dropdown_button{
+    background-color: inherit;
+    border-width: 0px;
+}

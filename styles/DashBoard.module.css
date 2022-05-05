@@ -1,0 +1,16 @@
+.dash_board .item{
+    background-color: inherit;
+    color: grey;
+    border: 1px solid rgb(18,18,18);
+}
+.dash_board .item > span{
+  font-size: 20px;
+}
+.dash_board .item:hover{
+  color: white;
+}
+.dash_board .item_selected{
+  background-color: rgb(108,71,255);
+  color: white;
+  border-radius: 5px;
+}

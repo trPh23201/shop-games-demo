@@ -1,0 +1,28 @@
+.toast{
+    width: 100%;
+    background-color: rgb(29,42,59);
+    margin-bottom: 10px;
+}
+.toast .header{
+    background-color: rgb(18,26,36);
+    color: white;
+}
+.toast .header .icon{
+    vertical-align: baseline;
+}
+.toast .header strong{
+    cursor: pointer;
+}
+.toast .body{
+    background-color: rgb(29,42,59);
+    color: white;
+    min-height: 150px;
+    max-height: 150px;
+    overflow: auto;
+}
+.toast .body .rate{
+    color: greenyellow;
+}
+.toast .body .non_rate{
+    color: red;
+}

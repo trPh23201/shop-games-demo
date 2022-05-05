@@ -1,0 +1,11 @@
+.img_frame{
+    min-height: 135px;
+    max-height: 135px;
+    position: relative;
+    cursor: pointer;
+}
+.row{
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,9 @@
+/**--------------Carousel----------**/
+.carousel{
+  margin: auto;
+  width: 650px;
+  height: 400px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  box-shadow:0 1px 30px rgb(70, 6, 112);
+}

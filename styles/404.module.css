@@ -1,0 +1,12 @@
+.layout{
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+}
+
+.click{
+    cursor: pointer;
+    color: rgb(149, 216, 255);
+    font-weight: bold;
+    text-decoration: underline;
+}

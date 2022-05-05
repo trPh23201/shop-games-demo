@@ -1,0 +1,13 @@
+.layout{
+    margin-top: 20px;
+    color: white;
+}
+.h1{
+    border-bottom: 1px solid;
+    border-color: grey;
+    margin-bottom: 15px;
+}
+
+.text_area{
+    background-color: rgb(29,42,59);
+}

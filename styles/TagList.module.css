@@ -1,0 +1,32 @@
+/*---------------------TagList----------------------*/
+.tag_list{
+  margin-top: 30px;
+}
+.tag_list .searchForm{
+  margin-bottom: 10px;
+  background-color: inherit;
+  color: white;
+}
+.tag_list .item{
+  background-color: inherit;
+  color: grey;
+  border: 1px solid rgb(18,18,18);
+}
+.tag_list .item:hover{
+  color: white;
+}
+.tag_list .item_checked:focus{
+  border: 1px solid white;
+  border-radius: 5px;
+}
+.tag_list .item_checked{
+  background-color: rgb(44, 44, 44);
+  color: white;
+  border-radius: 5px;
+}
+.tag_list .item_checked .icon{
+  position: absolute;
+  right: 10%;
+  top: 35%;
+  color: white;
+}

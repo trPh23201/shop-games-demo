@@ -1,0 +1,24 @@
+.text{
+  cursor: pointer;
+  font-size: 20px;
+
+}
+.active{
+  color: white;
+  cursor: default;
+}
+.inactive{
+  color: rgb(77, 45, 255);
+}
+.inactive:hover{
+  color: rgb(204, 204, 255);
+}
+.searchForm{
+  margin-left: 10px;
+  background-color: inherit;
+  color: white;
+}
+.searchForm:focus{
+  background-color: inherit;
+  color: white;
+}

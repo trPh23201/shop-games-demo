@@ -1,0 +1,667 @@
+{
+  "pagination": {
+    "countGames": 11
+  },
+  "games": [
+    {
+      "id": 1,
+      "realeased": "2021-05-06T17:00:00.000Z",
+      "name": "Resident Evil Village",
+      "price": 62.25,
+      "image": "https://i.imgur.com/3tKsy8s.png",
+      "developer": "CAPCOM Co., Ltd",
+      "publisher": "CAPCOM Co., Ltd",
+      "selltime": 75,
+      "tags": [
+        "Single Player",
+        "Survival",
+        "Horror",
+        "FPS",
+        "3D",
+        "Shotter"
+      ],
+      "intro": [
+        "Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise - Resident Evil Village.",
+        "Set a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again.",
+        "First-Person Action – Players will assume the role of Ethan Winters and experience every up-close battle and terrifying pursuit through a first-person perspective.",
+        "Familiar Faces and New Foes – Chris Redfield has typically been a hero in the Resident Evil series, but his appearance in Resident Evil Village seemingly shrouds him in sinister motives. A host of new adversaries inhabiting the village will relentlessly hunt Ethan and hinder his every move as he attempts to make sense of the new nightmare he finds himself in."
+      ],
+      "requirements": {
+        "os": "Windows 10 (64 bit)",
+        "processor": "AMD Ryzen 5 3600 ／ Intel Core i7 8700",
+        "memory": "16 GB RAM",
+        "graphics": "AMD Radeon RX 5700 ／ NVIDIA GeForce",
+        "directx": "Version 12",
+        "storage": "60 GB available space"
+      }
+    },
+    {
+      "id": 2,
+      "realeased": "2012-08-21T17:00:00.000Z",
+      "name": "Counter-Strike: Global Offensive",
+      "price": 15.42,
+      "image": "https://i.imgur.com/Js4ee4X.jpg",
+      "developer": "Valve, Hidden Path Entertainment",
+      "publisher": "Valve",
+      "selltime": 183,
+      "tags": [
+        "FPS",
+        "Competitive",
+        "Shotter",
+        "Multiplayer",
+        "3D"
+      ],
+      "intro": [
+        "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago.",
+        "CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+        "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac"
+      ],
+      "requirements": {
+        "os": "Windows® 7/Vista/XP",
+        "processor": "Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better",
+        "memory": "2 GB RAM",
+        "graphics": "Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0",
+        "directx": "Version 9.0c",
+        "storage": "15 GB available space"
+      }
+    },
+    {
+      "id": 3,
+      "realeased": "2011-04-18T17:00:00.000Z",
+      "name": "Portal 2",
+      "price": 9.99,
+      "image": "https://i.imgur.com/oBfMphQ.jpg",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "selltime": 39,
+      "tags": [
+        "Multiplayer",
+        "Puzzle",
+        "Co-op",
+        "FPS",
+        "3D"
+      ],
+      "intro": [
+        "Portal 2 draws from the award-winning formula of innovative gameplay, story, and music that earned the original Portal over 70 industry accolades and created a cult following.",
+        "The single-player portion of Portal 2 introduces a cast of dynamic new characters, a host of fresh puzzle elements, and a much larger set of devious test chambers. Players will explore never-before-seen areas of the Aperture Science Labs and be reunited with GLaDOS, the occasionally murderous computer companion who guided them through the original game.",
+        "The game’s two-player cooperative mode features its own entirely separate campaign with a unique story, test chambers, and two new player characters. This new mode forces players to reconsider everything they thought they knew about portals. Success will require them to not just act cooperatively, but to think cooperatively."
+      ],
+      "requirements": {
+        "os": "Windows 7 / Vista / XP",
+        "processor": "3.0 GHz P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)",
+        "memory": "2 GB RAM",
+        "graphics": "Video card must be 128 MB or more and with support for Pixel Shader 2.0b (ATI Radeon X800 or higher / NVIDIA GeForce 7600 or higher / Intel HD Graphics 2000 or higher).",
+        "directx": "Version 9.0c",
+        "storage": "8 GB available space"
+      }
+    },
+    {
+      "id": 4,
+      "realeased": "2016-06-13T17:00:00.000Z",
+      "name": "Dead by Daylight 2",
+      "price": 11.05,
+      "image": "https://i.imgur.com/h0FayqO.jpg",
+      "developer": "Behaviour Interactive Inc",
+      "publisher": "Behaviour Interactive Inc",
+      "selltime": 48,
+      "tags": [
+        "Horror",
+        "Multiplayer",
+        "3D",
+        "Survival"
+      ],
+      "intro": [
+        "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+      ],
+      "requirements": {
+        "os": "Windows 10 64-bit Operating System",
+        "processor": "Intel Core i3-4170 or AMD FX-8300 or higher",
+        "memory": "8 GB RAM",
+        "graphics": "DX11 Compatible GeForce 760 or AMD HD 8800 or higher with 4GB of RAM",
+        "directx": "Version 11",
+        "storage": "50 GB available space"
+      }
+    },
+    {
+      "id": 5,
+      "realeased": "2016-06-13T17:00:00.000Z",
+      "name": "Phasmophobia",
+      "price": 8.05,
+      "image": "https://i.imgur.com/KGAi9S9.jpg",
+      "developer": "Kinetic Games",
+      "publisher": "Kinetic Games",
+      "selltime": 142,
+      "tags": [
+        "Horror",
+        "Multiplayer",
+        "3D",
+        "Puzzle",
+        "FPS"
+      ],
+      "intro": [
+        "Phasmophobia is a 4 player online co-op psychological horror where you and your team members of paranormal investigators will enter haunted locations filled with paranormal activity and gather as much evidence of the paranormal as you can. You will use your ghost hunting equipment to search for and record evidence of whatever ghost is haunting the location to sell onto a ghost removal team.",
+        "You can choose to support your team by monitoring the location with CCTV cameras and motion sensors from the safety of the truck or head inside and get your hands dirty with the ghostly activity that will get increasingly hostile as time goes on."
+      ],
+      "requirements": {
+        "os": "Windows 10 64Bit",
+        "processor": "Intel Core i5-10600 / AMD Ryzen 5 3600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA RTX 2060 / AMD Radeon RX 5700",
+        "directx": "Version 12",
+        "storage": "18 GB available space"
+      }
+    },
+    {
+      "id": 6,
+      "realeased": "2004-12-23T17:00:00.000Z",
+      "name": "CSD2",
+      "price": 0.99,
+      "image": "https://i.imgur.com/JPWxIr1.jpg",
+      "developer": "Unreal Software",
+      "publisher": "Unreal Software",
+      "selltime": 134,
+      "tags": [
+        "Multiplayer",
+        "2D",
+        "Shotter"
+      ],
+      "intro": [
+        "Two teams fight each other in action packed matches. With a variety of missions like bomb planting, hostage rescue, V.I.P. assassination, capture the flag, construction, zombies, deathmatch and team deathmatch. You have access to a huge arsenal of weapons - also including crazy stuff like portal guns, lasers, RPGs and much more. Play online, in LAN or against bots. Use the built-in map editor to create your own maps within seconds or write Lua scripts to modify and extend the game!"
+      ],
+      "requirements": {
+        "os": "Win 2000, XP, Vista, 7, 8, 10",
+        "processor": "1 GHZ",
+        "memory": "256 MB RAM",
+        "graphics": "64 MB 3D video card with DirectX OR OpenGL support",
+        "directx": "Version 9.0",
+        "storage": "50 MB available space"
+      }
+    },
+    {
+      "id": 7,
+      "realeased": "2020-03-22T17:00:00.000Z",
+      "name": "Half-Life: Alyx",
+      "price": 24.99,
+      "image": "https://i.imgur.com/NpCIrAw.jpg",
+      "developer": "Valve",
+      "publisher": "Valve",
+      "selltime": 15,
+      "tags": [
+        "Horror",
+        "VR",
+        "Single Player"
+      ],
+      "intro": [
+        "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2.",
+        "Playing as Alyx Vance, you are humanity’s only chance for survival. The Combine’s control of the planet since the Black Mesa incident has only strengthened as they corral the remaining population in cities. Among them are some of Earth’s greatest scientists: you and your father, Dr. Eli Vance.",
+        "As founders of a fledgling resistance, you’ve continued your clandestine scientific activity—performing critical research, and building invaluable tools for the few humans brave enough to defy the Combine.",
+        "Every day, you learn more about your enemy, and every day you work toward finding a weakness."
+      ],
+      "requirements": {
+        "os": "Windows 10",
+        "processor": "Core i5-7500 / Ryzen 5 1600",
+        "memory": "12 GB RAM",
+        "graphics": "GTX 1060 / RX 580 - 6GB VRAM",
+        "directx": "Version 12",
+        "storage": "40 GB available space"
+      }
+    },
+    {
+      "id": 8,
+      "realeased": "2020-07-28T17:00:00.000Z",
+      "name": "Grounded",
+      "price": 15,
+      "image": "https://i.imgur.com/m41fljs.jpg",
+      "developer": "Obsidian Entertainment",
+      "publisher": "Xbox Game Studios",
+      "selltime": 31,
+      "tags": [
+        "Survival",
+        "Multiplayer",
+        "Co-op",
+        "Open World",
+        "Crafting"
+      ],
+      "intro": [
+        "The world is a vast, beautiful and dangerous place – especially when you have been shrunk to the size of an ant. Explore, build and survive together in this first person, multiplayer, survival-adventure. Can you thrive alongside the hordes of giant insects, fighting to survive the perils of the backyard?"
+      ],
+      "requirements": {
+        "os": "Windows 7 (SP1) 64bit",
+        "processor": "Intel Core i3-3225",
+        "memory": "4 GB RAM",
+        "graphics": "Nvidia GTX 650 Ti",
+        "directx": "Version 12",
+        "storage": "8 GB available space"
+      }
+    },
+    {
+      "id": 9,
+      "realeased": "2022-02-24T17:00:00.000Z",
+      "name": "ELDEN RING",
+      "price": 38.01,
+      "image": "https://i.imgur.com/5NkqCe2.jpg",
+      "developer": "FromSoftware Inc",
+      "publisher": "FromSoftware Inc, BANDAI NAMCO",
+      "selltime": 17,
+      "tags": [
+        "Open World",
+        "Single Player",
+        "RPG"
+      ],
+      "intro": [
+        "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between."
+      ],
+      "requirements": {
+        "os": "Windows 10/11",
+        "processor": "INTEL CORE I7-8700K or AMD RYZEN 5 3600X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GB",
+        "directx": "Version 12",
+        "storage": "60 GB available space"
+      }
+    },
+    {
+      "id": 10,
+      "realeased": "2022-02-03T17:00:00.000Z",
+      "name": "Dying Light 2 Stay Human",
+      "price": 43.76,
+      "image": "https://i.imgur.com/45IxJSW.jpg",
+      "developer": "Techland",
+      "publisher": "Techland",
+      "selltime": 20,
+      "tags": [
+        "Open World",
+        "Survival",
+        "Zombie",
+        "Co-op"
+      ],
+      "intro": [
+        "Over twenty years ago in Harran, we fought the virus—and lost. Now, we’re losing again. The City, one of the last large human settlements, is torn by conflict. Civilization has fallen back into the Dark Ages. And yet, we still have hope.",
+        "You are a wanderer with the power to change the fate of The City. But your exceptional abilities come at a price. Haunted by memories you cannot decipher, you set out to learn the truth… and find yourself in a combat zone. Hone your skills, as to defeat your enemies and make allies, you’ll need both fists and wits. Unravel the dark secrets behind the wielders of power, choose sides and decide your destiny. But wherever your actions take you, there's one thing you can never forget—stay human."
+      ],
+      "requirements": {
+        "os": "Windows® 10",
+        "processor": "AMD / Intel CPU running at 3.6 GHz or higher: AMD Ryzen 5 3600X or Intel i5-8600K or newer",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA® GeForce RTX™ 2060 6GB or AMD RX Vega 56 8GB or newer",
+        "directx": "Version 12",
+        "storage": "60 GB available space"
+      }
+    },
+    {
+      "id": 11,
+      "realeased": "2017-12-20T17:00:00.000Z",
+      "name": "PUBG: BATTLEGROUNDS",
+      "price": 9.72,
+      "image": "https://i.imgur.com/SsNyNKg.jpg",
+      "developer": "KRAFTON, Inc",
+      "publisher": "KRAFTON, Inc",
+      "selltime": 123,
+      "tags": [
+        "Multiplayer",
+        "Survival",
+        "Shotter"
+      ],
+      "intro": [
+        "Land on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds."
+      ],
+      "requirements": {
+        "os": "64-bit Windows 7, Windows 8.1, Windows 10",
+        "processor": "Intel Core i5-6600K / AMD Ryzen 5 1600",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB",
+        "directx": "Version 11",
+        "storage": "50 GB available space"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Horror",
+      "countGames": 4
+    },
+    {
+      "id": 2,
+      "name": "Survival",
+      "countGames": 5
+    },
+    {
+      "id": 3,
+      "name": "Competitive",
+      "countGames": 1
+    },
+    {
+      "id": 4,
+      "name": "FPS",
+      "countGames": 4
+    },
+    {
+      "id": 5,
+      "name": "Multiplayer",
+      "countGames": 7
+    },
+    {
+      "id": 6,
+      "name": "Shotter",
+      "countGames": 4
+    },
+    {
+      "id": 7,
+      "name": "Single Player",
+      "countGames": 3
+    },
+    {
+      "id": 8,
+      "name": "Puzzle",
+      "countGames": 2
+    },
+    {
+      "id": 9,
+      "name": "Co-op",
+      "countGames": 3
+    },
+    {
+      "id": 10,
+      "name": "VR",
+      "countGames": 1
+    },
+    {
+      "id": 11,
+      "name": "3D",
+      "countGames": 5
+    },
+    {
+      "id": 12,
+      "name": "2D",
+      "countGames": 1
+    },
+    {
+      "id": 13,
+      "name": "Open World",
+      "countGames": 3
+    },
+    {
+      "id": 14,
+      "name": "Crafting",
+      "countGames": 1
+    },
+    {
+      "id": 15,
+      "name": "RPG",
+      "countGames": 1
+    },
+    {
+      "id": 16,
+      "name": "Zombie",
+      "countGames": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "tripham",
+      "email": "tri53@gmail.com",
+      "password": "2675337 2900537 4066345 4074546 3677984 4572843",
+      "blocked": false,
+      "admin": true,
+      "gender": "Male",
+      "birthday": "12/12/2001",
+      "created": "2022-03-20T10:52:29.154Z",
+      "phone": "0799003120",
+      "id": 1,
+      "totalPaid": 0,
+      "hide": {
+        "phone": false,
+        "birthday": false,
+        "purchased": true,
+        "reviews": true,
+        "wishlist": false
+      }
+    },
+    {
+      "name": "viet kute",
+      "email": "viet@gmaa",
+      "password": "2675337 2900537 4066345 4074546 3677984 4572843",
+      "blocked": false,
+      "admin": false,
+      "gender": "Female",
+      "birthday": "123/4213/24",
+      "created": "2022-03-21T06:02:04.999Z",
+      "phone": "123456",
+      "id": 2,
+      "totalPaid": 0,
+      "hide": {
+        "phone": false,
+        "birthday": false,
+        "purchased": true,
+        "reviews": false,
+        "wishlist": false
+      }
+    },
+    {
+      "name": "ke bi an",
+      "email": "pham@gmail.com",
+      "password": "2675337 2900537 4066345 4074546 3677984 4572843",
+      "blocked": false,
+      "admin": false,
+      "gender": "Male",
+      "birthday": "21/01/1999",
+      "created": "2022-03-23T14:48:56.723Z",
+      "phone": "113",
+      "id": 3,
+      "totalPaid": 100.72,
+      "hide": {
+        "phone": false,
+        "birthday": false,
+        "purchased": false,
+        "reviews": false,
+        "wishlist": false
+      }
+    },
+    {
+      "name": "anhpham",
+      "email": "anhpham@gmail.com",
+      "password": "2675337 2900537 4066345 4074546 3677984 4572843",
+      "blocked": false,
+      "admin": false,
+      "gender": "",
+      "birthday": "2900537 4066345 1672854 164220 2900537 1672854 2900537 164220 164220 2675337",
+      "created": "2022-04-28T07:24:34.517Z",
+      "phone": "164220 4781905 1807968 1807968 164220 164220 4066345 2675337 2900537 164220",
+      "totalPaid": 15.42,
+      "hide": {
+        "phone": true,
+        "birthday": true,
+        "purchased": true,
+        "reviews": true,
+        "wishlist": true
+      },
+      "id": 4
+    }
+  ],
+  "purchased": [
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "price": 15.42,
+      "date": "2022-03-31T05:09:33.296Z",
+      "image": "https://i.imgur.com/Js4ee4X.jpg",
+      "gameId": 2,
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "name": "Phasmophobia",
+      "price": 8.05,
+      "date": "2022-03-31T05:09:33.301Z",
+      "image": "https://i.imgur.com/KGAi9S9.jpg",
+      "gameId": 5,
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "name": "Resident Evil Village",
+      "price": 62.25,
+      "date": "2022-03-31T12:22:55.746Z",
+      "image": "https://i.imgur.com/3tKsy8s.png",
+      "gameId": 1,
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "name": "Grounded",
+      "price": 15,
+      "date": "2022-03-31T12:22:55.747Z",
+      "image": "https://i.imgur.com/m41fljs.jpg",
+      "gameId": 8,
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "price": 15.42,
+      "date": "2022-05-02T09:29:27.844Z",
+      "image": "https://i.imgur.com/Js4ee4X.jpg",
+      "gameId": 2,
+      "userId": 4,
+      "id": 5
+    }
+  ],
+  "wishlist": [
+    {
+      "name": "Resident Evil Village",
+      "price": 62.25,
+      "image": "https://i.imgur.com/3tKsy8s.png",
+      "gameId": 1,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Resident Evil Village",
+      "price": 62.25,
+      "image": "https://i.imgur.com/3tKsy8s.png",
+      "gameId": 1,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Phasmophobia",
+      "price": 8.05,
+      "image": "https://i.imgur.com/KGAi9S9.jpg",
+      "gameId": 5,
+      "userId": 4,
+      "id": 3
+    }
+  ],
+  "reviews": [
+    {
+      "userId": 1,
+      "userName": "tripham",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": true,
+      "comment": "Love this game!",
+      "created": "2022-03-29T08:25:42.812Z",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "userName": "tripham",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": false,
+      "comment": "shjt",
+      "created": "2022-03-29T09:36:39.111Z",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "userName": "tripham",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": false,
+      "comment": "sad",
+      "created": "2022-03-29T09:50:03.057Z",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "userName": "viet kute",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": true,
+      "comment": "Game hay do ae tai ve di",
+      "created": "2022-03-29T14:13:50.924Z",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "userName": "viet kute",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": false,
+      "comment": "Sau mot thoi gian choi thi game lag vcl\nAe dung co tai ve ",
+      "created": "2022-03-29T14:15:55.374Z",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "userName": "viet kute",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": true,
+      "comment": "OK!",
+      "created": "2022-03-29T14:16:13.302Z",
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "userName": "viet kute",
+      "gameId": 2,
+      "gameName": "Counter-Strike: Global Offensive",
+      "rate": true,
+      "comment": "game ok",
+      "created": "2022-03-29T14:22:59.831Z",
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "userName": "ke bi an",
+      "gameId": 2,
+      "gameName": "Counter-Strike: Global Offensive",
+      "rate": false,
+      "comment": "1. Do hoa xau\n2. Lag\n3. Nhieu th toxic\nDung choi game nay ae",
+      "created": "2022-03-30T09:50:23.211Z",
+      "id": 9
+    },
+    {
+      "userId": 3,
+      "userName": "ke bi an",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": true,
+      "comment": "Hay",
+      "created": "2022-03-31T12:24:38.694Z",
+      "id": 10
+    },
+    {
+      "userId": 4,
+      "userName": "anhpham",
+      "gameId": 1,
+      "gameName": "Resident Evil Village",
+      "rate": false,
+      "comment": "I dont like this game",
+      "created": "2022-05-02T09:20:19.319Z",
+      "id": 11
+    },
+    {
+      "userId": 4,
+      "userName": "anhpham",
+      "gameId": 2,
+      "gameName": "Counter-Strike: Global Offensive",
+      "rate": true,
+      "comment": "Nice game",
+      "created": "2022-05-02T09:30:09.297Z",
+      "id": 12
+    }
+  ]
+}
