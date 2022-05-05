@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Dropdown } from "react-bootstrap";
-import style from "../../styles/Sort.module.css"
+import style from "../../styles/SortDropdown.module.css"
 
 export default function Sort({ game, setGame }) {
     const [sort, setSort] = useState('Recent')
