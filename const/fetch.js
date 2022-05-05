@@ -1,5 +1,5 @@
 import axios from "axios";
-const endPoint = 'http://localhost:4000';
+const endPoint = 'https://db-shopgames.herokuapp.com';
 
 export const fetchCountGames = async () => {
     try {
